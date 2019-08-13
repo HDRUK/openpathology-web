@@ -1,3 +1,6 @@
+[![LICENCE](https://img.shields.io/github/license/HDRUK/openpathology-web)](https://github.com/HDRUK/openpathology-web/blob/master/LICENCE)
+[![Supported By](https://img.shields.io/badge/Supported%20By-HDR%20UK-blue)](https://hdruk.ac.uk)
+
 # OpenPathology
 
 
