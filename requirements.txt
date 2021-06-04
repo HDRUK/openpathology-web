@@ -30,5 +30,5 @@ sqlparse==0.3.0
     # via django
 urllib3==1.26.5
     # via requests
-whitenoise==4.1.2
+whitenoise==5.2.0
     # via -r requirements.in
