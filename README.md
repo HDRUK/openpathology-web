@@ -1,5 +1,6 @@
 # OpenPathology
 
+**This repo has been archived in favour of https://github.com/ebmdatalab/openpathology.net**
 
 OpenPathology is a new project being built by the EBM DataLab at the
 University of Oxford.
